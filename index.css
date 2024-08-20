@@ -136,6 +136,16 @@
     height: 140px;
     position: absolute;
   }
+
+  .background-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1; /* Adjust this value as needed */
+  }
+
   .home-group5 {
     top: 140px;
     left: 0px;
